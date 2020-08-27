@@ -1,0 +1,367 @@
+[
+  {
+    "employerId": "E0Iphs1jjoMbGtB3zHWnb8N9YHI3",
+    "jobId": "7a78LTlwPa5OhamEinkE",
+    "jobTitle": "Associate Java Developer",
+    "jobExperience": 2,
+    "jobExperienceInTime": "Year(s)",
+    "jobLocationCountry": "",
+    "jobLocationState": "",
+    "jobLocationCity": [
+      "Mumbai",
+      "Delhi"
+    ],
+    "jobCategory": "",
+    "jobDescription": "need a Java developer",
+    "companyName": "AP Enterprise",
+    "companyLogo": "logo.png",
+    "countryCurrency": "Rs",
+    "ctc": 20000,
+    "jobPosterName": "Ankit",
+    "keySkills": [
+      "Core Java",
+      "Advance Java"
+    ],
+    "jobPayScale": "per month",
+    "jobType": "PART TIME",
+    "startingSalaryRange": 0,
+    "finishingSalaryRange": 10,
+    "rating": 3,
+    "applicants": 8,
+    "views": 0,
+    "active": true,
+    "expiryTime": 1594591635012,
+    "jobCreationTime": 1591999635012,
+    "applicationList": [
+      "Qly0NyYbJWrgYyXVYM7yf8Up17wUH",
+      "cjZUPFpyGphpBroKH58PfgiDsU9Xt",
+      "c8qAQfcRJBW01FuRCI7qmrrvH5b2",
+      "7BWu7wxcSwNLfjxfuFsJlC4vkDk2",
+      "DRe6gotLOJfN6aSJfPWYFUOgzpP2",
+      "jLBSpThMxEZIIJhaoE9TJa9Ak0y1",
+      "K64qzEZkSnT84bXTs2KhhjPX8A72"
+    ],
+    "questionsList": [
+      "qqqqq"
+    ],
+    "applicantsQuestionsResponseList": [
+      {
+        "uid": "Qly0NyYbJWrgYyXVYM7yf8Up17wUH",
+        "userFirstName": "Jinraj",
+        "userMiddleName": "",
+        "userLastName": "Jain",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "sjsj"
+          }
+        ]
+      },
+      {
+        "uid": "cjZUPFpyGphpBroKH58PfgiDsU9Xt",
+        "userFirstName": "Sukalp",
+        "userMiddleName": "M",
+        "userLastName": "Kokse",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "qqqqq"
+          }
+        ]
+      },
+      {
+        "uid": "c8qAQfcRJBW01FuRCI7qmrrvH5b2",
+        "userFirstName": "Jinraj",
+        "userMiddleName": "Db",
+        "userLastName": "Jain",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "shsh"
+          }
+        ]
+      },
+      {
+        "uid": "7BWu7wxcSwNLfjxfuFsJlC4vkDk2",
+        "userFirstName": "Jinraj",
+        "userMiddleName": "",
+        "userLastName": "Jain",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "shsns"
+          }
+        ]
+      },
+      {
+        "uid": "DRe6gotLOJfN6aSJfPWYFUOgzpP2",
+        "userFirstName": "Sudeb",
+        "userMiddleName": "",
+        "userLastName": "Mitra",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "qaa"
+          }
+        ]
+      },
+      {
+        "uid": "jLBSpThMxEZIIJhaoE9TJa9Ak0y1",
+        "userFirstName": "Jjkjkk",
+        "userMiddleName": "",
+        "userLastName": "Fjdjd",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "dfhh"
+          }
+        ]
+      },
+      {
+        "uid": "jLBSpThMxEZIIJhaoE9TJa9Ak0y1",
+        "userFirstName": "Jjkjkk",
+        "userMiddleName": "",
+        "userLastName": "Fjdjd",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "fdsz"
+          }
+        ]
+      },
+      {
+        "uid": "K64qzEZkSnT84bXTs2KhhjPX8A72",
+        "userFirstName": "Jinraj",
+        "userMiddleName": "",
+        "userLastName": "Jain",
+        "jobPostingQuestions": [
+          {
+            "question": "qqqqq",
+            "answer": "dhdhs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employerId": "E0Iphs1jjoMbGtB3zHWnb8N9YHI3",
+    "jobId": "PK0NgzHJ5yIFJ3DFpRb8",
+    "jobTitle": "pppppp",
+    "jobExperience": 1,
+    "jobExperienceInTime": "Year(s)",
+    "jobLocationCountry": "",
+    "jobLocationState": "",
+    "jobLocationCity": [
+      "Chennai"
+    ],
+    "jobCategory": "",
+    "jobDescription": "need a JavaScript Junior developer",
+    "companyName": "AP Enterprise",
+    "companyLogo": "logo.png",
+    "countryCurrency": "Rs",
+    "ctc": 90000,
+    "jobPosterName": "Ankit",
+    "keySkills": [
+      "Java Script"
+    ],
+    "jobPayScale": "per annum",
+    "jobType": "FULL TIME",
+    "startingSalaryRange": 0,
+    "finishingSalaryRange": 10,
+    "rating": 3,
+    "applicants": 1,
+    "views": 0,
+    "active": true,
+    "expiryTime": 1594588470634,
+    "jobCreationTime": 1591996470634,
+    "applicationList": [
+      "H0J6ty5llx4zuKh8N1ynDMxm1w8DL"
+    ],
+    "questionsList": [
+      "fhfhfgh",
+      "fhrfhfhfh",
+      "333"
+    ],
+    "applicantsQuestionsResponseList": [
+      {
+        "uid": "H0J6ty5llx4zuKh8N1ynDMxm1w8DL",
+        "userFirstName": "Aishwarya",
+        "userMiddleName": "",
+        "userLastName": "Panchumarty",
+        "jobPostingQuestions": [
+          {
+            "question": "fhfhfgh",
+            "answer": "thy"
+          },
+          {
+            "question": "fhrfhfhfh",
+            "answer": "hhh"
+          },
+          {
+            "question": "333",
+            "answer": "555"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employerId": "E0Iphs1jjoMbGtB3zHWnb8N9YHI3",
+    "jobId": "70t1KGttgLKKtLGoK6XK",
+    "jobTitle": "wwwwwww",
+    "jobExperience": 1,
+    "jobExperienceInTime": "Year(s)",
+    "jobLocationCountry": "",
+    "jobLocationState": "",
+    "jobLocationCity": [
+      "Mumbai"
+    ],
+    "jobCategory": "",
+    "jobDescription": "need an experienced JavaScript developer",
+    "companyName": "AP Enterprise",
+    "companyLogo": "logo.png",
+    "countryCurrency": "Rs",
+    "ctc": 30000,
+    "jobPosterName": "Ankit",
+    "keySkills": [
+      "Java Script"
+    ],
+    "jobPayScale": "per annum",
+    "jobType": "INTERNSHIP",
+    "startingSalaryRange": 0,
+    "finishingSalaryRange": 10,
+    "rating": 3,
+    "applicants": 5,
+    "views": 0,
+    "active": true,
+    "expiryTime": 1594588190603,
+    "jobCreationTime": 1591996190603,
+    "applicationList": [
+      "mStQPlhleZxWaQD1ZKddGrpxHVhRh",
+      "9C2PMYQ6pPZzGrDsqTAqG9mUF7nLn",
+      "4ExZHgYuDA6lgEgPKwpvm7FJUTEpL",
+      "H0J6ty5llx4zuKh8N1ynDMxm1w8DL",
+      "jLBSpThMxEZIIJhaoE9TJa9Ak0y1"
+    ],
+    "questionsList": [],
+    "applicantsQuestionsResponseList": null
+  },
+  {
+    "employerId": "E0Iphs1jjoMbGtB3zHWnb8N9YHI3",
+    "jobId": "BbnBvH86UvvD7TrNklky",
+    "jobTitle": " Android Developer",
+    "jobExperience": 2,
+    "jobExperienceInTime": "Year(s)",
+    "jobLocationCountry": "",
+    "jobLocationState": "",
+    "jobLocationCity": [
+      "New Delhi"
+    ],
+    "jobCategory": "",
+    "jobDescription": "need a Java developer with a good experience of Android application development",
+    "companyName": "AP Enterprise",
+    "companyLogo": "logo.png",
+    "countryCurrency": "Rs",
+    "ctc": 50000,
+    "jobPosterName": "Ankit",
+    "keySkills": [
+      "Java",
+      "Android"
+    ],
+    "jobPayScale": "per annum",
+    "jobType": "FREELANCER",
+    "startingSalaryRange": 0,
+    "finishingSalaryRange": 10,
+    "rating": 3,
+    "applicants": 6,
+    "views": 0,
+    "active": true,
+    "expiryTime": 1594587200533,
+    "jobCreationTime": 1591995200533,
+    "applicationList": [
+      "1IM2BYeHsrPvTJW8SXqWE92zNQ4k5",
+      "H0J6ty5llx4zuKh8N1ynDMxm1w8DL",
+      "4ExZHgYuDA6lgEgPKwpvm7FJUTEpL",
+      "3xEgtxccIYWGiFyPKVUV6dqyTkv1",
+      "fTADgDh26OFI4r2JNsmS57FnQxTEb",
+      "PcX1s1V0iPbI75do5jfBriS47Oo2"
+    ],
+    "questionsList": [
+      "dsfgtedrgds"
+    ],
+    "applicantsQuestionsResponseList": [
+      {
+        "uid": "1IM2BYeHsrPvTJW8SXqWE92zNQ4k5",
+        "userFirstName": "Mehul",
+        "userMiddleName": "",
+        "userLastName": "Agarwal",
+        "jobPostingQuestions": [
+          {
+            "question": "dsfgtedrgds",
+            "answer": "Dummy Text"
+          }
+        ]
+      },
+      {
+        "uid": "H0J6ty5llx4zuKh8N1ynDMxm1w8DL",
+        "userFirstName": "Aishwarya",
+        "userMiddleName": "",
+        "userLastName": "Panchumarty",
+        "jobPostingQuestions": [
+          {
+            "question": "dsfgtedrgds",
+            "answer": "tyy"
+          }
+        ]
+      },
+      {
+        "uid": "4ExZHgYuDA6lgEgPKwpvm7FJUTEpL",
+        "userFirstName": "Aakash",
+        "userMiddleName": "",
+        "userLastName": "Decosta",
+        "jobPostingQuestions": [
+          {
+            "question": "dsfgtedrgds",
+            "answer": "dsfsdfdf"
+          }
+        ]
+      },
+      {
+        "uid": "3xEgtxccIYWGiFyPKVUV6dqyTkv1",
+        "userFirstName": "Joe",
+        "userMiddleName": "",
+        "userLastName": "Marini",
+        "jobPostingQuestions": [
+          {
+            "question": "JJJJ",
+            "answer": "HHHH"
+          }
+        ]
+      },
+      {
+        "uid": "fTADgDh26OFI4r2JNsmS57FnQxTEb",
+        "userFirstName": "Ankit",
+        "userMiddleName": "",
+        "userLastName": "Pandita",
+        "jobPostingQuestions": [
+          {
+            "question": "dsfgtedrgds",
+            "answer": "Hzhz"
+          }
+        ]
+      },
+      {
+        "uid": "PcX1s1V0iPbI75do5jfBriS47Oo2",
+        "userFirstName": "Aakash",
+        "userMiddleName": "",
+        "userLastName": "DecostaII",
+        "jobPostingQuestions": [
+          {
+            "question": "dsfgtedrgds",
+            "answer": "gtyjghjg"
+          }
+        ]
+      }
+    ]
+  }
+]
